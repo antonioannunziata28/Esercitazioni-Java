@@ -5,8 +5,14 @@ public class Telefonata {
 	private int numero;
 	private int durata;
 	private int costo;
+
 	
-	
+	public Telefonata(int numero, int durata, int costo) {
+		super();
+		this.numero = numero;
+		this.durata = durata;
+		this.costo = costo;
+	}
 	public int getNumero() {
 		return numero;
 	}

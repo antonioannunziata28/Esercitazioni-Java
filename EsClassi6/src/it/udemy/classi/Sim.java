@@ -1,7 +1,5 @@
 package it.udemy.classi;
 
-import java.util.Iterator;
-
 public class Sim {
 
 	private int numSim;

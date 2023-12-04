@@ -22,61 +22,27 @@ public class Main {
 //			-costo totale chiamata
 //			-durata totale chiamata
 		
-		Telefonata tel1 = new Telefonata();
-		tel1.setNumero(123);
-		tel1.setDurata(100);
-		tel1.setCosto(150);
+		Telefonata tel1 = new Telefonata(3453, 5, 2);
 		
-		Telefonata tel2 = new Telefonata();
-		tel2.setNumero(1213);
-		tel2.setDurata(10);
-		tel2.setCosto(21);
+		Telefonata tel2 = new Telefonata(3455, 15, 12);
 		
-		Telefonata tel3 = new Telefonata();
-		tel3.setNumero(123);
-		tel3.setDurata(100);
-		tel3.setCosto(150);
+		Telefonata tel3 = new Telefonata(3565, 2, 1);
 		
-		Telefonata tel4 = new Telefonata();
-		tel4.setNumero(1213);
-		tel4.setDurata(10);
-		tel4.setCosto(21);
+		Telefonata tel4 = new Telefonata(6434, 53, 20);
 		
-		Telefonata tel5 = new Telefonata();
-		tel5.setNumero(123);
-		tel5.setDurata(100);
-		tel5.setCosto(150);
+		Telefonata tel5 = new Telefonata(6575, 10, 5);
 		
-		Telefonata tel6 = new Telefonata();
-		tel6.setNumero(1213);
-		tel6.setDurata(10);
-		tel6.setCosto(21);
+		Telefonata tel6 = new Telefonata(35434, 3, 3);
 		
-		Telefonata tel7 = new Telefonata();
-		tel7.setNumero(123);
-		tel7.setDurata(100);
-		tel7.setCosto(150);
+		Telefonata tel7 = new Telefonata(53535, 24, 12);
 		
-		Telefonata tel8 = new Telefonata();
-		tel8.setNumero(1213);
-		tel8.setDurata(10);
-		tel8.setCosto(21);
+		Telefonata tel8 = new Telefonata(35556, 11, 10);
 		
-		Telefonata tel9 = new Telefonata();
-		tel9.setNumero(1213);
-		tel9.setDurata(10);
-		tel9.setCosto(21);
+		Telefonata tel9 = new Telefonata(35575, 8, 4);
 		
-		Telefonata tel10 = new Telefonata();
-		tel10.setNumero(123);
-		tel10.setDurata(100);
-		tel10.setCosto(150);
+		Telefonata tel10 = new Telefonata(3556, 3, 3);
 		
-		Telefonata tel11 = new Telefonata();
-		tel11.setNumero(1213);
-		tel11.setDurata(10);
-		tel11.setCosto(21);
-		
+		Telefonata tel11 = new Telefonata(3235, 11, 4);
 		
 		
 		
